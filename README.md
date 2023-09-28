@@ -12,6 +12,8 @@ File Name: 'Deep_Learning_Cancer_Detection'
 This is a mini Project using a basic CNN Network to train a model for binary classification (Cancer or No- Cancer) of a set of image data set obtained from Kaggle using Keras library in Python.
 
 
+
+
 **Project 2: Simple Question Answering Code using Hugging Face Transformers**
 
 File Name: 'Q_A_Hugging_Face'
