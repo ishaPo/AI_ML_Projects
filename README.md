@@ -19,3 +19,11 @@ This is a mini Project using a basic CNN Network to train a model for binary cla
 File Name: 'Q_A_Hugging_Face'
 
 This is a basic code where you can ask simple questions to a small dataset and the model will parse the data (such as a csv file) and produce the appropraite answer. Here I have used the 'Sustainable Development Data up to 2023' and taken a subset of the entire data to display how the method works. We can use batching or choice of another model that can accomodate larger datasets in future versions.
+
+
+
+**Project 3: Iris DataSet EDA**
+
+File Name: 'IRIS_EDA'
+
+Simple Exploratory Data Analysis on the Iris Dataset from Kaggle
